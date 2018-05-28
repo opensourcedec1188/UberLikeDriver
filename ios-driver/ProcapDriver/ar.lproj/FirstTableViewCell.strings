@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Total Trips"; ObjectID = "003-1i-nLr"; */
+"003-1i-nLr.text" = "اجمالي الرحلات";
+
+/* Class = "UILabel"; text = "By continuing, I agree to EGO customer's use "; ObjectID = "48L-Kx-jpC"; */
+"48L-Kx-jpC.text" = "الربح اليومي الخاص بك و الذي يمكن سحبه من حسابك الخاص";
+
+/* Class = "UILabel"; text = "Cash Collected"; ObjectID = "dkK-ab-mOa"; */
+"dkK-ab-mOa.text" = "النقدية المتلقاة";
+
+/* Class = "UILabel"; text = "Today’s Profit (SAR)"; ObjectID = "f2K-A0-fqW"; */
+"f2K-A0-fqW.text" = "ربح اليوم ( بالريال )";
+
+/* Class = "UILabel"; text = "Time Online"; ObjectID = "pp3-KK-gl8"; */
+"pp3-KK-gl8.text" = "مدة الاتصال";

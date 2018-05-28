@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Vehicle Registration"; ObjectID = "7Qz-et-cpY"; */
+"7Qz-et-cpY.text" = "استمارة السيارة";
+
+/* Class = "UILabel"; text = "Driving License"; ObjectID = "96x-uf-Q9b"; */
+"96x-uf-Q9b.text" = "رخصة القيادة";
+
+/* Class = "UILabel"; text = "Expires"; ObjectID = "MeE-Fy-JLL"; */
+"MeE-Fy-JLL.text" = "انتهاء";
+
+/* Class = "UILabel"; text = "Expires"; ObjectID = "QyS-8f-IuJ"; */
+"QyS-8f-IuJ.text" = "انتهاء";
+
+/* Class = "UILabel"; text = "Account Documents"; ObjectID = "Txq-jE-cx6"; */
+"Txq-jE-cx6.text" = "وثائق الحساب";
+
+/* Class = "UILabel"; text = "Vehicle Insurance"; ObjectID = "epO-mR-m0r"; */
+"epO-mR-m0r.text" = "تأمين السيارة";
+
+/* Class = "UILabel"; text = "Driver Document"; ObjectID = "hBh-rW-Svj"; */
+"hBh-rW-Svj.text" = "وثائق السائق";
+
+/* Class = "UILabel"; text = "Expires"; ObjectID = "m2K-75-lKS"; */
+"m2K-75-lKS.text" = "انتهاء";
+
+/* Class = "UILabel"; text = "Expires"; ObjectID = "nW0-Il-ooT"; */
+"nW0-Il-ooT.text" = "انتهاء";
+
+/* Class = "UILabel"; text = "Expires"; ObjectID = "q5J-Cy-opB"; */
+"q5J-Cy-opB.text" = "انتهاء";
+
+/* Class = "UILabel"; text = "Iqama / Saudi ID"; ObjectID = "z0m-ds-sor"; */
+"z0m-ds-sor.text" = "الهوية الوطنية / الاقامة";
+
+/* Class = "UILabel"; text = "Delegation"; ObjectID = "zL8-Cy-sS9"; */
+"zL8-Cy-sS9.text" = "التفويض";

@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip \ncustomer's use By"; ObjectID = "0t2-7l-yVS"; */
+"0t2-7l-yVS.text" = "دامي تكست";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "JKg-JK-SlE"; */
+"JKg-JK-SlE.text" = "عن ايجو";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "d0g-vZ-hJR"; */
+"d0g-vZ-hJR.text" = "تسجيل خروج";
+
+/* Class = "UILabel"; text = "Receiving all trips typs"; ObjectID = "qdM-8V-e97"; */
+"qdM-8V-e97.text" = "استقبال جميع انواع الرحلات";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "s2X-0B-UVY"; */
+"s2X-0B-UVY.text" = "الاعدادات";

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Payment Info"; ObjectID = "2fg-YT-282"; */
+"2fg-YT-282.text" = "معلومات الدفع";
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip customer's use By continuing, I agree to easy trip customer's use "; ObjectID = "46S-WF-7oX"; */
+"46S-WF-7oX.text" = "معلومات الدفع مع ايجو";
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip customer's use By continuing, I agree to easy trip customer's use "; ObjectID = "5rm-EW-mGQ"; */
+"5rm-EW-mGQ.text" = "معلومات الدفع مع ايجو";
+
+/* Class = "UILabel"; text = "Add Credit Card"; ObjectID = "F3d-EV-p2U"; */
+"F3d-EV-p2U.text" = "اضف بطاقة ائتمان";
+
+/* Class = "UILabel"; text = "Add Bank Account"; ObjectID = "cAP-fU-OmI"; */
+"cAP-fU-OmI.text" = "اضف حساب بنكي";
+
+/* Class = "UILabel"; text = "Payout"; ObjectID = "jxQ-C0-c9L"; */
+"jxQ-C0-c9L.text" = "الحسابات البنكية";
+
+/* Class = "UILabel"; text = "Credit Cards Payment"; ObjectID = "uOg-Zc-0Hj"; */
+"uOg-Zc-0Hj.text" = "البطاقات الائتمانية";

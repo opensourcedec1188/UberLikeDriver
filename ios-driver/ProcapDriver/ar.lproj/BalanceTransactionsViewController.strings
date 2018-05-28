@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip customer's use "; ObjectID = "20z-Nr-F6C"; */
+"20z-Nr-F6C.text" = "القيمه الصافيه ( بالريال ) بعد خصم المستحقات الخاصه بايجو .. يتم تصفيه المستحقات بعد كل عمليه سحب او ايداع من الشركه";
+
+/* Class = "UILabel"; text = "Profit"; ObjectID = "aHd-O5-87h"; */
+"aHd-O5-87h.text" = "الربح";
+
+/* Class = "UILabel"; text = "Trip Details"; ObjectID = "aYl-yO-odG"; */
+"aYl-yO-odG.text" = "تفاصيل الرحلة";
+
+/* Class = "UILabel"; text = "Balance Transactions "; ObjectID = "vH1-xT-AfQ"; */
+"vH1-xT-AfQ.text" = "عمليات الرصيد";

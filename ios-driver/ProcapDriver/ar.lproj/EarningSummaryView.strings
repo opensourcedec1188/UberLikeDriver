@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "0UJ-qm-nHi"; */
+"0UJ-qm-nHi.text" = "الرصيد";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "1MP-Xx-fko"; */
+"1MP-Xx-fko.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Today’s Profit"; ObjectID = "9A3-Ka-e5K"; */
+"9A3-Ka-e5K.text" = "ربح اليوم";
+
+/* Class = "UILabel"; text = "Total Trips"; ObjectID = "9vz-d3-brp"; */
+"9vz-d3-brp.text" = "اجمالي الرحلات";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "AOX-G3-9Wx"; */
+"AOX-G3-9Wx.text" = "٠";
+
+/* Class = "UILabel"; text = "trips"; ObjectID = "D9s-41-nyF"; */
+"D9s-41-nyF.text" = "رحلة";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Jix-jj-SQQ"; */
+"Jix-jj-SQQ.text" = "٠";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KNU-pF-mXi"; */
+"KNU-pF-mXi.text" = "٠";
+
+/* Class = "UILabel"; text = "299.99"; ObjectID = "N6V-lU-fbc"; */
+"N6V-lU-fbc.text" = "";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "ZAc-Ys-uw2"; */
+"ZAc-Ys-uw2.text" = "ر.س.";
+
+/* Class = "UILabel"; text = "trips"; ObjectID = "oCO-aY-aDQ"; */
+"oCO-aY-aDQ.text" = "رحلة";
+
+/* Class = "UILabel"; text = "Quests"; ObjectID = "rSG-Bl-tib"; */
+"rSG-Bl-tib.text" = "الجوائز";
+
+/* Class = "UILabel"; text = "Complete 30 Trip And Get 100 SAR"; ObjectID = "vAT-Na-0v0"; */
+"vAT-Na-0v0.text" = "قم بانهاء ٣٠ رحلة للحصول على ١٠٠ ريال سعودي";
+
+/* Class = "UILabel"; text = "Cash Collected"; ObjectID = "wPC-Ia-e8x"; */
+"wPC-Ia-e8x.text" = "تم تحصيل النقد";

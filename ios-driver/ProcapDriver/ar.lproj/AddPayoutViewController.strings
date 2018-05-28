@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip customer's use By continuing, I agree to easy trip customer's use "; ObjectID = "4eF-3h-8LB"; */
+"4eF-3h-8LB.text" = "دامي تكست";
+
+/* Class = "UILabel"; text = "Add Payout"; ObjectID = "AMq-Zf-Zez"; */
+"AMq-Zf-Zez.text" = "اضافة حساب بنكي";
+
+/* Class = "UILabel"; text = "Account Holder Name"; ObjectID = "EA2-mF-95H"; */
+"EA2-mF-95H.text" = "اسم صاحب الحساب";
+
+/* Class = "UILabel"; text = "Payout"; ObjectID = "eV9-2h-cit"; */
+"eV9-2h-cit.text" = "اضافة حساب";
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "m1r-0w-e3a"; */
+"m1r-0w-e3a.normalTitle" = "اضافة";
+
+/* Class = "UILabel"; text = "Bank Iban"; ObjectID = "mMg-cA-vZ0"; */
+"mMg-cA-vZ0.text" = "رقم الايبان";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "tte-y8-wHo"; */
+"tte-y8-wHo.text" = "المدينة";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "wS7-Vv-yOP"; */
+"wS7-Vv-yOP.text" = "العنوان";

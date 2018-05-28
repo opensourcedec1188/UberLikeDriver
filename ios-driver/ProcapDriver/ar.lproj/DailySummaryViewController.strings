@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "No rides for this day"; ObjectID = "1xB-yG-WSz"; */
+"1xB-yG-WSz.text" = "لا يوجد رحلات لهذا اليوم";
+
+/* Class = "UILabel"; text = "SAT"; ObjectID = "6cm-1p-KkA"; */
+"6cm-1p-KkA.text" = "سبت";
+
+/* Class = "UILabel"; text = "Daily Profit"; ObjectID = "Gk3-JL-QMi"; */
+"Gk3-JL-QMi.text" = "الربح اليومي";
+
+/* Class = "UILabel"; text = "SUN"; ObjectID = "Xx6-nw-6up"; */
+"Xx6-nw-6up.text" = "احد";
+
+/* Class = "UILabel"; text = "MON"; ObjectID = "bMZ-CR-SP1"; */
+"bMZ-CR-SP1.text" = "اثنين";
+
+/* Class = "UILabel"; text = "THU"; ObjectID = "hFF-S2-gkA"; */
+"hFF-S2-gkA.text" = "خميس";
+
+/* Class = "UILabel"; text = "WED"; ObjectID = "mzh-bW-vpq"; */
+"mzh-bW-vpq.text" = "اربعاء";
+
+/* Class = "UILabel"; text = "FRI"; ObjectID = "oWZ-sy-rfu"; */
+"oWZ-sy-rfu.text" = "جمعة";
+
+/* Class = "UILabel"; text = "TUE"; ObjectID = "rvk-lA-aiX"; */
+"rvk-lA-aiX.text" = "ثلاثاء";

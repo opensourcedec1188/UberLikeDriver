@@ -1,0 +1,226 @@
+/* 
+  Localizable.strings
+  ProcapDriver
+
+  Created by MacBookPro on 4/10/17.
+  Copyright © 2017 Amer. All rights reserved.
+*/
+/*Common Strings*/
+
+"network_problem_title" = "No Connection";
+"network_problem_message" = "Please check your network connectevity";
+
+"Chose_camera_source_title" = "Choose Source";
+"Chose_camera_source_first_option" = "Camera";
+"Chose_camera_source_second_option" = "Choose From Library";
+"Chose_camera_source_cancel" = "Cancel";
+
+"driver_already_exists_title" = "Already Exists";
+"driver_already_exists_message" = "This driver already exists";
+
+"vehicle_already_exists_title" = "Vehicle Already Exists";
+"vehicle_already_exists_message" = "This car aleady registered";
+
+"general_problem_title" = "Problem happened";
+"general_problem_message" = "Please try again later";
+
+"general_image_size_title" = "Too Large Image Size";
+"general_image_size_message" = "Maximum image size is 5MB";
+
+"general_ok" = "OK";
+
+"any_done" = "Done";
+"general_yes" = "Yes";
+"general_no" = "No";
+
+"saudiRial" = "SR";
+"kiloMeter" = "KM";
+"minute" = "minute";
+
+"status_online" = "Online";
+"status_offline" = "Offline";
+
+"x_trips" = "trips";
+"x_trips_completed" = "trips completed";
+
+/*Tabbar*/
+"home" = "HOME";
+"earnings" = "EARNINGS";
+"news" = "NEWS";
+"account" = "ACCOUNT";
+
+/*Splash Controller*/
+"splash_old_version_title" = "Old App Version";
+"splash_old_version_message" = "Please update your application to get the latest features and updates";
+
+/*Login Page*/
+"login_alert_invalid_data_title" = "Invalid Data";
+"login_alert_invalid_data_message" = "Please enter valid username and password";
+
+"login_failed_title" = "Login Failed";
+"login_failed_message" = "Wrong username or password";
+
+"login_delete_driver_error_title" = "No driver to delete";
+"login_delete_driver_error_message" = "No registered driver";
+
+/*Register Root*/
+"root_back_warning_title" = "Warning";
+"toor_back_warning_message" = "Going back may cancel your saved data, Please complete your registration!";
+"root_back_warning_done" = "OK";
+"root_back_warning_cancel" = "Cancel";
+
+/*Enter Mobile*/
+"mobilr_exists_title" = "Already Exists";
+"mobilr_exists_message" = "This mobile number already registered";
+
+"enter_mobile_missing_title" = "Missing Mobile Number";
+"enter_mobile_missing_message" = "Please enter a valid mobile number";
+
+"enter_mobile_send_code_prob_title" = "Problem in sending code";
+"enter_mobile_send_code_prob_message" = "Couldn't send verify code to your mobile number, Please try again later";
+
+"enter_mobile_terms_not_approved_error_title" = "You didn't approve terms and conditions";
+
+/*Confirm Mobile*/
+
+"confirm_wrong_code_title" = "Wrong Verification Code";
+"confirm_wrong_code_message" = "Please enter the code sent to your mobile";
+
+"number_label_string" = "Enter your verification code, sent by SMS sent to : ";
+
+"resend_first_part" = "You can request new verification code after";
+"resend_second_part" = "seconds";
+
+"resend_btn_initial" = "30 seconds to send again";
+"resend_btn_final" = "Resend code again";
+
+/*Personal Info*/
+
+"personal_invalid_email" = "Enter valid email (ex@domain.com)";
+"personal_passwords_not_equal" = "Two passwords must be equal";
+"personal_passwords_minimum_error" = "Minimum 6 charecters";
+"personal_id_error" = "Enter valid ID number (10 charecters)";
+"personal_wrong_mobile_confirmation_title" = "Wrong Mobile Confirmation";
+"personal_wrong_mobile_confirmation_message" = "Wrong Mobile Confirmation";
+"personal_flnames_chars_error" = "accepts charecters only";
+
+"personal_english_only" = "Please use english letters only";
+
+"personal_confirm_password" = "Please confirm your password";
+
+"personal_search_placeholder" = "Search";
+/*General Info*/
+"general_license_image_missing_title" = "Missing Driving License Image";
+"general_license_image_missing_message" = "Please, upload your driving license image";
+
+"not_auth_otp_title" = "Your phone verification period has been expired";
+"not_auth_otp_message" = "Please return back to phone verification ans start over again";
+
+/*Vehicle Details*/
+"vehicle_reg_num_error" = "Enter valid car sequence number";
+"vehicle_model" = "Model";
+
+/*Documents*/
+"docs_missing_vehicle_image_title" = "Vehicle Image Missing";
+"docs_missing_vehicle_image_message" = "Please upload image for your vehicle";
+
+"docs_failed_add_vehicle_title" = "Failed to add vehicle";
+"docs_failed_add_vehicle_message" = "Please try again later";
+
+
+/*Uploads Progress*/
+"prog_auth_error_title" = "Authentication Problem";
+"prog_auth_error_message" = "Please try again later";
+
+"prog_no_driver_error_title" = "No Driver Registered";
+"prog_no_driver_error_message" = "Please repeat registration process";
+
+"prog_file_error_title" = "File Not Valid";
+"prog_file_error_message" = "Please upload a valid file";
+
+"prog_file_error_title" = "File Name Not Valid";
+"prog_file_error_message" = "Please upload a valid file name";
+
+"prog_already_exists_error_title" = "Image already uploaded";
+"prog_already_exists_error_message" = "You've uploaded this image before";
+
+"general_upload_error_title" = "An Error Occurred";
+"general_upload_error_message" = "Please try again later";
+
+/*Greetings Controller*/
+"choose_map_title" = "Please choose the map";
+"choose_map_google" = "Google Maps";
+"choose_map_apple" = "Apple Maps";
+
+
+/*TabBarRoot Controlle*/
+"TBC_NoAvailableData" = "No Available Data";
+"TBC_NewRideTitle" = "New Ride Request";
+"TBC_NewRideMessage" = "New Ride Request";
+
+
+/* On-Ride Controller */
+"OR_footerbtn_confirm_arrival" = "Confirm Arrival";
+"OR_footerBtn_startRide" = "Start Ride";
+"OR_footerBtn_stopRide" = "End Ride";
+"OR_unknownRideStatusTitle" = "Unknown Ride Status";
+"OR_unknownRideStatusMessage" = "Please restart the app to refresh ride status";
+
+"OR_rideCanceledAlertTitle" = "Ride Canceled";
+"OR_rideCanceledAlertMessage" = "Ride has been canceled";
+"OR_rideCanceledByClientAlertMessage" = "Ride has been canceled";
+
+"OR_arrivalStillFarTitle" = "Still far from client";
+"OR_arrivalStillFarMessage" = "Please confirm only when you arrive to the client";
+
+"OR_unexpectedActionTitle" = "Unexpected Action";
+"OR_unexpectedActionMessage" = "Please try again";
+
+"OR_beforeCancelWarningTitle" = "Are You Sure?";
+"OR_beforeCancelWarningNoFeeMessage" = "Ride will be canceled";
+"OR_beforeCancelWarningWithFeeMessage" = "Fees will be applied af you canceled the ride";
+
+/* Payment Controller */
+"PC_missing_payment_title" = "Missing Ride Payment";
+"PC_missing_payment_message" = "Please enter cash collected";
+
+"PC_wrongCashTitle" = "Wrong Cash Amount";
+"PC_wrongCashMessage" = "Please enter cash again";
+
+"PC_less_cash_title" = "Wrong Cash Amount";
+"PC_less_cash_message" = "Please collect the displayed cash amount";
+
+/* EndRide Controller */
+"ER_BaseFare" = "Base Fare : ";
+"ER_distance" = "Distance : ";
+"ER_Duration" = "Duration : ";
+"ER_Discount" = "Discount : ";
+"ER_total" = "Total :";
+"ER_overCharge" = "Over-Charge : ";
+"ER_no_overCharge" = "No Over-Charge";
+
+"ER_from" = "From : ";
+"ER_to" = "To : ";
+"ER_toNoDetermined" = "Not Determined";
+
+
+
+/*Earnings Controller*/
+"this_day_profit" = "This Day Profit";
+"this_week_profit" = "This Week Profit";
+"this_day_profit_sar" = "Daily Profit ( SAR )";
+"this_week_profit_sar" = "Weekly Profit ( SAR )";
+
+
+
+
+
+
+
+
+
+
+
+
+
+

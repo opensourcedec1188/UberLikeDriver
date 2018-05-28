@@ -1,0 +1,8 @@
+
+/* Class = "UILabel"; text = "Your client will pay in cash
+Please don’t forget "; ObjectID = "6nk-iw-GKz"; */
+"6nk-iw-GKz.text" = "العميل يدفع نقدي
+الرجاء تحصيل نقديا ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "lhZ-Wv-vTa"; */
+"lhZ-Wv-vTa.normalTitle" = "تم";

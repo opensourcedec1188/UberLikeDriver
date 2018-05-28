@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Settlment"; ObjectID = "37G-fC-jOi"; */
+"37G-fC-jOi.text" = "التسوية";
+
+/* Class = "UILabel"; text = "Pickup"; ObjectID = "8tC-d6-GFx"; */
+"8tC-d6-GFx.text" = "موقع البدء";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "G9C-AI-PqU"; */
+"G9C-AI-PqU.text" = "المدة";
+
+/* Class = "UILabel"; text = "Trip Time/Date"; ObjectID = "Jv9-z5-sgi"; */
+"Jv9-z5-sgi.text" = "تاريخ الرحلة";
+
+/* Class = "UILabel"; text = "Outstanding Balance"; ObjectID = "Npx-ZT-u3e"; */
+"Npx-ZT-u3e.text" = "الرصيد الخارجي";
+
+/* Class = "UILabel"; text = "Fare"; ObjectID = "TIP-3M-eNq"; */
+"TIP-3M-eNq.text" = "اجمالي";
+
+/* Class = "UILabel"; text = "Trip Details"; ObjectID = "c6U-LU-BQx"; */
+"c6U-LU-BQx.text" = "تفاصيل الرحلة";
+
+/* Class = "UILabel"; text = "Cash Collected"; ObjectID = "ghM-eb-suM"; */
+"ghM-eb-suM.text" = "النقدية المتلقاة";
+
+/* Class = "UILabel"; text = "Profit"; ObjectID = "h3G-HJ-ucS"; */
+"h3G-HJ-ucS.text" = "الربح";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "oef-Bp-HsO"; */
+"oef-Bp-HsO.text" = "المسافة";
+
+/* Class = "UILabel"; text = "DropOff"; ObjectID = "rJI-XQ-Gr4"; */
+"rJI-XQ-Gr4.text" = "الوجهة";
+
+/* Class = "UILabel"; text = "Pay in Wallet"; ObjectID = "uUd-AY-nBN"; */
+"uUd-AY-nBN.text" = "مدفوع للمحفظة";

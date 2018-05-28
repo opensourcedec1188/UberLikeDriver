@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "km"; ObjectID = "1YL-TG-2nu"; */
+"1YL-TG-2nu.text" = "كم";
+
+/* Class = "UILabel"; text = "VALUE"; ObjectID = "9at-Ee-uJp"; */
+"9at-Ee-uJp.text" = "VALUE";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "ABp-Nv-nz4"; */
+"ABp-Nv-nz4.text" = "22";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "DoR-p7-zgo"; */
+"DoR-p7-zgo.text" = "المسافة";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "H03-aq-QBC"; */
+"H03-aq-QBC.text" = "النوع";
+
+/* Class = "UILabel"; text = "25"; ObjectID = "WX8-nY-zdS"; */
+"WX8-nY-zdS.text" = "25";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "Wdq-rt-ppq"; */
+"Wdq-rt-ppq.text" = "الوقت";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "bSM-sE-UuJ"; */
+"bSM-sE-UuJ.text" = "دقيقة";

@@ -1,0 +1,407 @@
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "00T-Qt-dOD"; */
+"00T-Qt-dOD.text" = "الجنسية";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "0L8-Hn-vjb"; */
+"0L8-Hn-vjb.text" = "تاريخ الانتهاء";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0cK-Er-DUe"; */
+"0cK-Er-DUe.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0qO-R7-2Fj"; */
+"0qO-R7-2Fj.text" = "0";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "1MJ-yi-SKI"; */
+"1MJ-yi-SKI.text" = "ريال";
+
+/* Class = "UILabel"; text = "Car Insurance Image"; ObjectID = "2Nh-5t-Xci"; */
+"2Nh-5t-Xci.text" = "صورة تأمين المركبة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Xa-ee-yTr"; */
+"2Xa-ee-yTr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "2iJ-QY-kVC"; */
+"2iJ-QY-kVC.text" = "الرصيد";
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "2km-Rb-az5"; */
+"2km-Rb-az5.text" = "أدخل رقم الجوال";
+
+/* Class = "UILabel"; text = "Invites drivers"; ObjectID = "3dV-Fo-TZ7"; */
+"3dV-Fo-TZ7.text" = "مشاركة كود الإحالة مع الأصدقاء";
+
+/* Class = "UILabel"; text = "Manufacturer"; ObjectID = "3j1-v7-xFn"; */
+"3j1-v7-xFn.text" = "المصنٌع";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "44f-2x-xvD"; */
+"44f-2x-xvD.text" = "ريال";
+
+/* Class = "UILabel"; text = "By continuing, I agree to Procab user agreement and terms of services"; ObjectID = "5jc-S5-vyv"; */
+"5jc-S5-vyv.text" = "بالمتابعة, أقر وأوافق على شروط وأحكام إيچو";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5tK-2e-awF"; */
+"5tK-2e-awF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Fare"; ObjectID = "6MQ-85-OCL"; */
+"6MQ-85-OCL.text" = "الأجرة";
+
+/* Class = "UIButton"; normalTitle = "المزيد"; ObjectID = "6nJ-wx-B5M"; */
+"6nJ-wx-B5M.normalTitle" = "المزيد";
+
+/* Class = "UIButton"; normalTitle = "Problem sending code?"; ObjectID = "7vA-fo-WNF"; */
+"7vA-fo-WNF.normalTitle" = "مشكلة في إرسال رمز التحقق؟";
+
+/* Class = "UILabel"; text = "Welcome,
+ Please type your Password"; ObjectID = "88C-La-Q72"; */
+"88C-La-Q72.text" = "مرحبا, فضلا أدخل رقم المرور";
+
+/* Class = "UIButton"; normalTitle = "المزيد"; ObjectID = "8IG-Xb-6VF"; */
+"8IG-Xb-6VF.normalTitle" = "المزيد";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "9Ip-wL-T0I"; */
+"9Ip-wL-T0I.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "AGw-VX-PFs"; */
+"AGw-VX-PFs.text" = "+966";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "AW3-Nc-iR9"; */
+"AW3-Nc-iR9.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Are-9x-GrX"; */
+"Are-9x-GrX.text" = "0";
+
+/* Class = "UILabel"; text = "One final step left in order to start cabbing around!\nVisit us for a final vehicle and documents inspection"; ObjectID = "Are-i4-xPt"; */
+"Are-i4-xPt.text" = "يتبقى لديك آخر خطوة لتبدأ رحلتك في قبول الطلبات! يرجى زيارة موقعنا لمعاينة المركبة والأوراق الرسمية";
+
+/* Class = "UISegmentedControl"; BdP-Sm-tMx.segmentTitles[0] = "Today"; ObjectID = "BdP-Sm-tMx"; */
+"BdP-Sm-tMx.segmentTitles[0]" = "اليوم";
+
+/* Class = "UISegmentedControl"; BdP-Sm-tMx.segmentTitles[1] = "This Week"; ObjectID = "BdP-Sm-tMx"; */
+"BdP-Sm-tMx.segmentTitles[1]" = "الأسبوع الحالي";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Bs2-FT-HQU"; */
+"Bs2-FT-HQU.title" = "Item";
+
+/* Class = "UILabel"; text = "PROCAB RULES"; ObjectID = "CPs-N5-A8o"; */
+"CPs-N5-A8o.text" = "شروط إيچو";
+
+/* Class = "UITextField"; placeholder = "Street"; ObjectID = "CXC-vq-UIs"; */
+"CXC-vq-UIs.placeholder" = "الشارع";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "CZ6-a8-Zfh"; */
+"CZ6-a8-Zfh.text" = "العروض";
+
+/* Class = "UILabel"; text = "هديتك في انتظارك"; ObjectID = "CrE-Fg-ffA"; */
+"CrE-Fg-ffA.text" = "هديتك في انتظارك";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "D9l-DJ-QJc"; */
+"D9l-DJ-QJc.text" = "إلغاء";
+
+/* Class = "UILabel"; text = "General Info"; ObjectID = "Fw7-r0-86I"; */
+"Fw7-r0-86I.text" = "معلومات عامة";
+
+/* Class = "UILabel"; text = "ID Image"; ObjectID = "HRo-L1-osh"; */
+"HRo-L1-osh.text" = "صورة إثبات الشخصية";
+
+/* Class = "UILabel"; text = "• You must be 21 years of age or older.\n• Vehicle year must be 2010 or newer.\n• Online registration is the first phase of becoming a Pro."; ObjectID = "HWA-UQ-B1q"; */
+"HWA-UQ-B1q.text" = "• You must be 21 years of age or older.\n• Vehicle year must be 2010 or newer.\n• Online registration is the first phase of becoming a Pro.";
+
+/* Class = "UILabel"; text = "PROCAB RULES"; ObjectID = "Hb8-XB-FNP"; */
+"Hb8-XB-FNP.text" = "شروط إيچو";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Hjj-pU-CYF"; */
+"Hjj-pU-CYF.text" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Visit Our Location"; ObjectID = "ISc-Bt-f7j"; */
+"ISc-Bt-f7j.normalTitle" = "قم بزيارة موقعنا";
+
+/* Class = "UILabel"; text = "هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ "; ObjectID = "IgH-5N-rhF"; */
+"IgH-5N-rhF.text" = "هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "In9-Wr-c5v"; */
+"In9-Wr-c5v.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "JbP-FP-4XB"; */
+"JbP-FP-4XB.text" = "الاسم الأول";
+
+/* Class = "UILabel"; text = "Navigation"; ObjectID = "JeJ-Zf-hJg"; */
+"JeJ-Zf-hJg.text" = "إبدأ الملاحة";
+
+/* Class = "UILabel"; text = "Congratulations Pro!"; ObjectID = "Jnv-Ee-kw3"; */
+"Jnv-Ee-kw3.text" = "مبروك!";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "Ks7-2y-4Ak"; */
+"Ks7-2y-4Ak.text" = "+٩٦٦";
+
+/* Class = "UILabel"; text = "Let's Go"; ObjectID = "LwZ-kJ-w1T"; */
+"LwZ-kJ-w1T.text" = "ابدأ";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "MJ6-0e-4rK"; */
+"MJ6-0e-4rK.normalTitle" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "trips"; ObjectID = "MKI-NY-DQI"; */
+"MKI-NY-DQI.text" = "رحلة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MMZ-NB-dtc"; */
+"MMZ-NB-dtc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Quiet Ride"; ObjectID = "NE4-sk-ySI"; */
+"NE4-sk-ySI.text" = "رحلة صامتة";
+
+/* Class = "UIButton"; normalTitle = "SKIP RATING"; ObjectID = "NFM-Cf-5u3"; */
+"NFM-Cf-5u3.normalTitle" = "تخطي التقييم";
+
+/* Class = "UILabel"; text = "Add image for your vehicle"; ObjectID = "Ngk-95-vY5"; */
+"Ngk-95-vY5.text" = "إضافة صورة للمركبة";
+
+/* Class = "UILabel"; text = "You can resend otp after 30 seconds"; ObjectID = "PUG-Ia-irP"; */
+"PUG-Ia-irP.text" = "تستطيع إرسال رمز تحقق بعد 30 ثانية";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "PXq-Gn-o9w"; */
+"PXq-Gn-o9w.normalTitle" = "إعادة إرسال رمز التحقق";
+
+/* Class = "UILabel"; text = "Cash Collected"; ObjectID = "QgU-J1-X15"; */
+"QgU-J1-X15.text" = "النقدية المحصلة";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "R1Q-xV-Pkn"; */
+"R1Q-xV-Pkn.normalTitle" = "البدء";
+
+/* Class = "UITextField"; placeholder = "Plate Letters"; ObjectID = "SAS-uV-SSa"; */
+"SAS-uV-SSa.placeholder" = "حروف لوحة المركبة";
+
+/* Class = "UILabel"; text = "Car Registeration Image"; ObjectID = "SmW-4I-YD2"; */
+"SmW-4I-YD2.text" = "صورة استمارة السيارة";
+
+/* Class = "UILabel"; text = "Delegation Image"; ObjectID = "TRP-63-n0e"; */
+"TRP-63-n0e.text" = "صورة التفويض";
+
+/* Class = "UILabel"; text = "Delegation Image"; ObjectID = "UNs-pT-xJx"; */
+"UNs-pT-xJx.text" = "صورة التفويض";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "UO2-jx-cOk"; */
+"UO2-jx-cOk.text" = "الوثائق";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "VGy-VT-xTG"; */
+"VGy-VT-xTG.placeholder" = "بريد إلكتروني";
+
+/* Class = "UILabel"; text = "هديتك في انتظارك"; ObjectID = "Vb1-zM-HR1"; */
+"Vb1-zM-HR1.text" = "هديتك في انتظارك";
+
+/* Class = "UITextField"; placeholder = "Referral Code (Optional)"; ObjectID = "WCR-SL-zh2"; */
+"WCR-SL-zh2.placeholder" = "كود الإحالة (اختياري)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WIS-rr-FWQ"; */
+"WIS-rr-FWQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reach a goal, Take home more"; ObjectID = "Wd5-eN-ly7"; */
+"Wd5-eN-ly7.text" = "حقق هدفك واربح المزيد";
+
+/* Class = "UILabel"; text = "Today’s Profit"; ObjectID = "X25-Aa-g7H"; */
+"X25-Aa-g7H.text" = "الربح اليومي";
+
+/* Class = "UILabel"; text = "• You must be 21 years of age or older.\n• Vehicle year must be 2010 or newer.\n• Online registration is the first phase of becoming a Pro."; ObjectID = "X3a-z8-uzS"; */
+"X3a-z8-uzS.text" = "• You must be 21 years of age or older.\n• Vehicle year must be 2010 or newer.\n• Online registration is the first phase of becoming a Pro.";
+
+/* Class = "UITextField"; placeholder = "Sequence Number"; ObjectID = "XTi-dQ-me6"; */
+"XTi-dQ-me6.placeholder" = "رقم المركبة التسلسلي";
+
+/* Class = "UITextField"; placeholder = "ID Number"; ObjectID = "XTm-Rg-i4a"; */
+"XTm-Rg-i4a.placeholder" = "رقم إثبات الشخصية";
+
+/* Class = "UILabel"; text = "Personal Info"; ObjectID = "Xnj-l7-1t6"; */
+"Xnj-l7-1t6.text" = "معلومات شخصية";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "Xzl-ip-wQE"; */
+"Xzl-ip-wQE.text" = "مساعدة";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "YNl-Yt-dwa"; */
+"YNl-Yt-dwa.placeholder" = "الاسم الأول";
+
+/* Class = "UILabel"; text = "Online"; ObjectID = "Z47-9u-rkU"; */
+"Z47-9u-rkU.text" = "متصل";
+
+/* Class = "UILabel"; text = "Vehicle Image"; ObjectID = "ZIC-6H-0wI"; */
+"ZIC-6H-0wI.text" = "صورة المركبة";
+
+/* Class = "UILabel"; text = "ID Expiration Date"; ObjectID = "ZLE-tK-3V1"; */
+"ZLE-tK-3V1.text" = "تاريخ إنتهاء إثبات الشخصية";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "ZXT-Pg-o6Z"; */
+"ZXT-Pg-o6Z.text" = "مساعدة";
+
+/* Class = "UILabel"; text = "Earn up to 300 SAR for inviting new drivers"; ObjectID = "Zgd-vq-BAu"; */
+"Zgd-vq-BAu.text" = "لديك فرصة للربح حتى ٣٠٠ ريال عند دعوة اصدقائك";
+
+/* Class = "UILabel"; text = "trips"; ObjectID = "Zm5-eT-ZpS"; */
+"Zm5-eT-ZpS.text" = "trips";
+
+/* Class = "UILabel"; text = "هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ "; ObjectID = "bEC-1h-hFo"; */
+"bEC-1h-hFo.text" = "هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ ";
+
+/* Class = "UILabel"; text = "Insurance Image"; ObjectID = "bKF-NA-Xuf"; */
+"bKF-NA-Xuf.text" = "صورة تأمين المركبة";
+
+/* Class = "UILabel"; text = "Do you own this vehicle?"; ObjectID = "bSv-Hh-p9B"; */
+"bSv-Hh-p9B.text" = "هل أنت صاحب المركبة؟";
+
+/* Class = "UILabel"; text = "Expiration Date"; ObjectID = "bWo-6f-OOR"; */
+"bWo-6f-OOR.text" = "تاريخ الانتهاء";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "cty-gj-9rd"; */
+"cty-gj-9rd.text" = "السنة";
+
+/* Class = "UILabel"; text = "Expiration Date"; ObjectID = "d7Z-6T-P9M"; */
+"d7Z-6T-P9M.text" = "تاريخ الانتهاء";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dW5-w2-gYf"; */
+"dW5-w2-gYf.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dfq-H5-2PD"; */
+"dfq-H5-2PD.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "dtf-ad-rp1"; */
+"dtf-ad-rp1.title" = "Item";
+
+/* Class = "UILabel"; text = "One last step to become aPro"; ObjectID = "e9h-7m-wRT"; */
+"e9h-7m-wRT.text" = "One last step to become aPro";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eem-x2-cNX"; */
+"eem-x2-cNX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ "; ObjectID = "gH0-7O-7d6"; */
+"gH0-7O-7d6.text" = "هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ ";
+
+/* Class = "UILabel"; text = "ID Image"; ObjectID = "gvu-so-vIZ"; */
+"gvu-so-vIZ.text" = "صورة الهوية";
+
+/* Class = "UILabel"; text = "Driver Registeration"; ObjectID = "hJJ-Eo-QMN"; */
+"hJJ-Eo-QMN.text" = "تسجيل السائق";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "iHc-ac-EFe"; */
+"iHc-ac-EFe.text" = "0";
+
+/* Class = "UILabel"; text = "Birthdate"; ObjectID = "iXe-Ne-Pab"; */
+"iXe-Ne-Pab.text" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "izm-8m-jhO"; */
+"izm-8m-jhO.text" = "خصم";
+
+/* Class = "UILabel"; text = "Enter Mobile Phone"; ObjectID = "j9P-s5-TVJ"; */
+"j9P-s5-TVJ.text" = "ادخل رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "Riyadh"; ObjectID = "jXy-L6-KJI"; */
+"jXy-L6-KJI.placeholder" = "الرياض";
+
+/* Class = "UILabel"; text = "Driver Registeration"; ObjectID = "jgy-m4-1id"; */
+"jgy-m4-1id.text" = "تسجيل السائق";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "l2h-5r-oSH"; */
+"l2h-5r-oSH.text" = "الملفات";
+
+/* Class = "UILabel"; text = "Payments"; ObjectID = "l7K-Xm-Mhr"; */
+"l7K-Xm-Mhr.text" = "الدفع";
+
+/* Class = "UILabel"; text = "Enter your verification code, sent by SMS sent to : "; ObjectID = "lPk-ah-4np"; */
+"lPk-ah-4np.text" = "ادخل الرمز المرسل على";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "lga-Dk-UQ8"; */
+"lga-Dk-UQ8.normalTitle" = "Go";
+
+/* Class = "UILabel"; text = "Total Trips"; ObjectID = "llv-j5-Eth"; */
+"llv-j5-Eth.text" = "اجمالي الرحلات";
+
+/* Class = "UITextField"; placeholder = "Saudi Arabia"; ObjectID = "mOw-we-2hQ"; */
+"mOw-we-2hQ.placeholder" = "السعودية";
+
+/* Class = "UILabel"; text = "Driving License Image"; ObjectID = "msK-dt-5YB"; */
+"msK-dt-5YB.text" = "صورة رخصة القيادة";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "no8-8T-AMe"; */
+"no8-8T-AMe.text" = "التقييم";
+
+/* Class = "UIButton"; normalTitle = "Not Owner"; ObjectID = "nql-FZ-ZoT"; */
+"nql-FZ-ZoT.normalTitle" = "لست مالك";
+
+/* Class = "UILabel"; text = "Client Rating"; ObjectID = "o1L-pe-3Ij"; */
+"o1L-pe-3Ij.text" = "تقييم العميل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pM0-qh-Isp"; */
+"pM0-qh-Isp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Vehicle Details"; ObjectID = "q3D-xF-G4x"; */
+"q3D-xF-G4x.text" = "تفاصيل المركبة";
+
+/* Class = "UILabel"; text = "Vehicle Registration Image"; ObjectID = "qB0-Rr-ow9"; */
+"qB0-Rr-ow9.text" = "صورة استمارة السيارة";
+
+/* Class = "UIButton"; normalTitle = "Owner"; ObjectID = "rNo-nz-LQd"; */
+"rNo-nz-LQd.normalTitle" = "مالك";
+
+/* Class = "UILabel"; text = "Luggage"; ObjectID = "rXX-Ca-9xb"; */
+"rXX-Ca-9xb.text" = "أمتعة";
+
+/* Class = "UILabel"; text = "Driving License Image"; ObjectID = "ra7-8d-hhu"; */
+"ra7-8d-hhu.text" = "صورة رخصة القيادة";
+
+/* Class = "UILabel"; text = "Account Info"; ObjectID = "re3-SX-ZOo"; */
+"re3-SX-ZOo.text" = "معلومات الحساب";
+
+/* Class = "UILabel"; text = "Verify Phone Number"; ObjectID = "rfD-Cv-VUz"; */
+"rfD-Cv-VUz.text" = "تأكيد رقم الجوال";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "rqK-rO-FCU"; */
+"rqK-rO-FCU.text" = "تاريخ الانتهاء";
+
+/* Class = "UIButton"; normalTitle = "المزيد"; ObjectID = "rzX-y5-6x0"; */
+"rzX-y5-6x0.normalTitle" = "المزيد";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "sUb-za-cBJ"; */
+"sUb-za-cBJ.text" = "الموديل";
+
+/* Class = "UILabel"; text = "هديتك في انتظارك"; ObjectID = "tJ3-td-oVb"; */
+"tJ3-td-oVb.text" = "هديتك في انتظارك";
+
+/* Class = "UILabel"; text = "Outstanding Balance"; ObjectID = "tk8-FJ-8Eh"; */
+"tk8-FJ-8Eh.text" = "غرامات سابقة";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "u7d-s7-uCi"; */
+"u7d-s7-uCi.text" = "الاعدادات";
+
+/* Class = "UILabel"; text = "Please wait until uploading attachments"; ObjectID = "u8o-cd-p0U"; */
+"u8o-cd-p0U.text" = "الرجاء الانتظار حتى يتم رفع الملفات";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "uDb-IU-84e"; */
+"uDb-IU-84e.text" = "الاسم";
+
+/* Class = "UIButton"; normalTitle = "Drop-Off Location"; ObjectID = "uYN-7u-sls"; */
+"uYN-7u-sls.normalTitle" = "موقع";
+
+/* Class = "UILabel"; text = "Quests"; ObjectID = "vhY-Ml-4dN"; */
+"vhY-Ml-4dN.text" = "العروض";
+
+/* Class = "UILabel"; text = "Complete 30 Trip And Get 100 SAR"; ObjectID = "wAt-2X-T3I"; */
+"wAt-2X-T3I.text" = "اكمل ٣٠ رحلة للحصول على ١٠٠ ريال سعودي";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "wTY-Bi-LgV"; */
+"wTY-Bi-LgV.normalTitle" = "تم";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xJe-Ay-geE"; */
+"xJe-Ay-geE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "District"; ObjectID = "xed-oD-ANG"; */
+"xed-oD-ANG.text" = "الحي";
+
+/* Class = "UILabel"; text = "Please Take a Photo for your Car Same as image shown above!"; ObjectID = "xmM-RX-Lce"; */
+"xmM-RX-Lce.text" = "Please Take a Photo for your Car Same as image shown above!";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "xyR-ss-lZV"; */
+"xyR-ss-lZV.placeholder" = "الاسم الأخير";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y5P-d4-JEX"; */
+"y5P-d4-JEX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Complete your account"; ObjectID = "yAW-UQ-XYc"; */
+"yAW-UQ-XYc.normalTitle" = "Complete your account";
+
+/* Class = "UITextField"; placeholder = "Plate Number"; ObjectID = "yL8-ei-6Kz"; */
+"yL8-ei-6Kz.placeholder" = "رقم لوحة المركبة";
+

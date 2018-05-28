@@ -1,0 +1,198 @@
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "1Kv-SV-jOr"; */
+"1Kv-SV-jOr.text" = "+٩٦٦";
+
+/* Class = "UILabel"; text = "Driving License Image"; ObjectID = "272-eU-PyD"; */
+"272-eU-PyD.text" = "صورة رخصة القيادة";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "3dZ-ds-UJj"; */
+"3dZ-ds-UJj.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "Car Registeration Image"; ObjectID = "3kS-D4-jQG"; */
+"3kS-D4-jQG.text" = "صورة استمارة السيارة";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "6uq-rN-H9g"; */
+"6uq-rN-H9g.text" = "الايميل";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "7Kv-MH-jc0"; */
+"7Kv-MH-jc0.text" = "٠٥";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "8hT-uU-OQL"; */
+"8hT-uU-OQL.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Plate Number"; ObjectID = "9AO-v0-h6A"; */
+"9AO-v0-h6A.text" = "رقم اللوحة";
+
+/* Class = "UILabel"; text = "By continuing, I agree to Procab user agreement and terms of services"; ObjectID = "Aa8-QA-YyC"; */
+"Aa8-QA-YyC.text" = "بالاستمرار، اكون قد وافقت على شروط الاستخدام الخاصة بايجو";
+
+/* Class = "UILabel"; text = "Insurance Image"; ObjectID = "Csi-Ob-ENf"; */
+"Csi-Ob-ENf.text" = "صورة التأمين";
+
+/* Class = "UILabel"; text = "Vehicle Sequence Number"; ObjectID = "ErF-Ot-1JB"; */
+"ErF-Ot-1JB.text" = "الرقم التسلسلي";
+
+/* Class = "UILabel"; text = "• You must be 21 years of age or older.\n• Vehicle year must be 2010 or newer.\n• Online registration is the first phase of becoming a Pro."; ObjectID = "FvO-ET-t4e"; */
+"FvO-ET-t4e.text" = "• السن فوق ٢١ عام\n• سنة صنع السيارة بعد ٢٠١٠\n• التسجيل الالكتروني هو اول خطوات التسجيل";
+
+/* Class = "UILabel"; text = "Birthdate"; ObjectID = "Ggf-5f-P9a"; */
+"Ggf-5f-P9a.text" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "By continuing, I agree to Procab user agreement and terms of services"; ObjectID = "GuS-dD-ZRN"; */
+"GuS-dD-ZRN.text" = "بالاستمرار، اكون قد وافقت على شروط الاستخدام الخاصة بايجو";
+
+/* Class = "UILabel"; text = "PROCAB RULES"; ObjectID = "JES-Uk-TAG"; */
+"JES-Uk-TAG.text" = "قواعد ايجو للسائق";
+
+/* Class = "UILabel"; text = "One last step to become aPro"; ObjectID = "JRZ-BY-d1t"; */
+"JRZ-BY-d1t.text" = "خطوة اخيرة لتصبح سائق محترف";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "KUS-GD-14b"; */
+"KUS-GD-14b.normalTitle" = "الذهاب";
+
+/* Class = "UILabel"; text = "Congratulations Pro!"; ObjectID = "KgM-8S-aTX"; */
+"KgM-8S-aTX.text" = "تهانينا!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LWp-Eb-6Wl"; */
+"LWp-Eb-6Wl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "District"; ObjectID = "Lvz-E1-PI2"; */
+"Lvz-E1-PI2.text" = "الحي";
+
+/* Class = "UILabel"; text = "Vehicle Registration Image"; ObjectID = "NGP-U7-mNR"; */
+"NGP-U7-mNR.text" = "صورة استمارة السيارة";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "PGa-hG-8pc"; */
+"PGa-hG-8pc.text" = "السنة";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "PuW-g6-jda"; */
+"PuW-g6-jda.text" = "رقم الهوية/الاقامة";
+
+/* Class = "UILabel"; text = "Referral Code (Optional)"; ObjectID = "RtT-Tm-rbj"; */
+"RtT-Tm-rbj.text" = "الرمز المرجعي ( اختياري )";
+
+/* Class = "UILabel"; text = "Plate Letters"; ObjectID = "SFK-t4-ZUt"; */
+"SFK-t4-ZUt.text" = "حروف اللوحة";
+
+/* Class = "UILabel"; text = "ID Image"; ObjectID = "ViL-cq-bLi"; */
+"ViL-cq-bLi.text" = "صورة الهوية / الاقامة";
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "Wqf-RS-U9S"; */
+"Wqf-RS-U9S.text" = "ادخل رقم الجوال";
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip customer's \nuser agreement and terms of services."; ObjectID = "XNQ-p8-UHO"; */
+"XNQ-p8-UHO.text" = "بالاستمرار، اكون قد وافقت على شروط الاستخدام الخاصة بايجو";
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "ZGx-HS-9Ka"; */
+"ZGx-HS-9Ka.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "ZKk-4j-3th"; */
+"ZKk-4j-3th.text" = "الشارع";
+
+/* Class = "UILabel"; text = "Manufacturer"; ObjectID = "ZeK-fK-3Bj"; */
+"ZeK-fK-3Bj.text" = "النوع";
+
+/* Class = "UILabel"; text = "Delegation Image"; ObjectID = "boC-CK-UX5"; */
+"boC-CK-UX5.text" = "صورة التفويض";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cTh-eK-uRw"; */
+"cTh-eK-uRw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "One final step left in order to start cabbing around!\nVisit us for a final vehicle and documents inspection"; ObjectID = "dDq-RR-LbV"; */
+"dDq-RR-LbV.text" = "خطوة واحدة متبقية!\n سيتم مراجعة الاوراق والرجوع اليك باسرع وقت";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "dVm-pO-zUh"; */
+"dVm-pO-zUh.normalTitle" = "اعادة الارسال";
+
+/* Class = "UILabel"; text = "Enter the 4 -digits code\nSent to you at "; ObjectID = "dnO-fr-u3i"; */
+"dnO-fr-u3i.text" = "ادخل الرمز المكون من ٤ حروف \n المرسل الى ";
+
+/* Class = "UILabel"; text = "Vehicle Image"; ObjectID = "drq-ZV-kFK"; */
+"drq-ZV-kFK.text" = "صورة السيارة";
+
+/* Class = "UILabel"; text = "Driving License Image"; ObjectID = "fWA-V8-hb9"; */
+"fWA-V8-hb9.text" = "صورة رخصة القيادة";
+
+/* Class = "UILabel"; text = "Insurance Expiration Date"; ObjectID = "gXv-Sk-XyB"; */
+"gXv-Sk-XyB.text" = "تاريخ انتهاء التأمين";
+
+/* Class = "UILabel"; text = "Driver Registeration"; ObjectID = "goU-Gj-m0w"; */
+"goU-Gj-m0w.text" = "تسجيل السائق";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "gtc-YR-JRX"; */
+"gtc-YR-JRX.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "ID Image"; ObjectID = "gxm-ax-HCO"; */
+"gxm-ax-HCO.text" = "ثورة الهوية / الاقامة";
+
+/* Class = "UILabel"; text = "Enter Mobile Phone"; ObjectID = "hZV-3N-aRn"; */
+"hZV-3N-aRn.text" = "ادخل رقم الجوال";
+
+/* Class = "UILabel"; text = "• Must be with same angle.\n• Must show clear car plate."; ObjectID = "hei-Y4-yj5"; */
+"hei-Y4-yj5.text" = "• يجب ان تكون بنفس الزاوية\n• يجب ان توضح اللوحة";
+
+/* Class = "UILabel"; text = "Car Insurance Image"; ObjectID = "iBo-Om-6NH"; */
+"iBo-Om-6NH.text" = "صورة تأمين السيارة";
+
+/* Class = "UILabel"; text = "Let's Go"; ObjectID = "iFG-IT-S3Q"; */
+"iFG-IT-S3Q.text" = "لنبدأ";
+
+/* Class = "UILabel"; text = "ID Expiration Date"; ObjectID = "ibU-zG-KvI"; */
+"ibU-zG-KvI.text" = "تاريخ انتهاء الهوية ";
+
+/* Class = "UILabel"; text = "Delegation Image"; ObjectID = "jAg-HV-Rp4"; */
+"jAg-HV-Rp4.text" = "صورة التفويض";
+
+/* Class = "UILabel"; text = "Driving License Expiry Date"; ObjectID = "k2b-mi-1XI"; */
+"k2b-mi-1XI.text" = "تاريخ انتهاء رخصة القيادة";
+
+/* Class = "UILabel"; text = "• You must be 21 years of age or older.\n• Vehicle year must be 2010 or newer.\n• Online registration is the first phase of becoming a Pro."; ObjectID = "k6N-2x-9er"; */
+"k6N-2x-9er.text" = "• السن فوق ٢١ عام\n• سنة صنع السيارة بعد ٢٠١٠\n• التسجيل الالكتروني هو اول خطوات التسجيل";
+
+/* Class = "UILabel"; text = "Saudi Arabia"; ObjectID = "krT-xy-h7B"; */
+"krT-xy-h7B.text" = "السعودية";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "lUh-2d-Ieh"; */
+"lUh-2d-Ieh.text" = "الموديل";
+
+/* Class = "UIButton"; normalTitle = "  Visit Our Location"; ObjectID = "mVH-J3-SPS"; */
+"mVH-J3-SPS.normalTitle" = "  قم يزيارة موقعنا";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "mge-Sz-f2P"; */
+"mge-Sz-f2P.text" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "Do you own this vehicle?"; ObjectID = "nIn-Yl-a1S"; */
+"nIn-Yl-a1S.text" = "هل تملك هذه السيارة؟";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "nVx-LW-0eL"; */
+"nVx-LW-0eL.normalTitle" = "الذهاب";
+
+/* Class = "UISegmentedControl"; nhi-Cg-pt1.segmentTitles[0] = "Owner"; ObjectID = "nhi-Cg-pt1"; */
+"nhi-Cg-pt1.segmentTitles[0]" = "مالك";
+
+/* Class = "UISegmentedControl"; nhi-Cg-pt1.segmentTitles[1] = "Not Owner"; ObjectID = "nhi-Cg-pt1"; */
+"nhi-Cg-pt1.segmentTitles[1]" = "لست مالك";
+
+/* Class = "UILabel"; text = "Riyadh"; ObjectID = "nup-jW-qGD"; */
+"nup-jW-qGD.text" = "الرياض";
+
+/* Class = "UILabel"; text = "Welcome,  Please type your Password"; ObjectID = "nxD-lm-gGs"; */
+"nxD-lm-gGs.text" = "مرحبا,  الرجاء ادخال كلمة المرور";
+
+/* Class = "UILabel"; text = "Delegation Expiration Date"; ObjectID = "s5p-yw-H6S"; */
+"s5p-yw-H6S.text" = "تاريخ انتهاء التفويض";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "uY9-y1-tmL"; */
+"uY9-y1-tmL.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "wRX-4F-Mdv"; */
+"wRX-4F-Mdv.text" = "الجنسية";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "xbH-Fu-Jqh"; */
+"xbH-Fu-Jqh.text" = "تاريخ الانتهاء";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "yMS-HF-g86"; */
+"yMS-HF-g86.text" = "الاسم الاخير";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "yOc-gw-dl1"; */
+"yOc-gw-dl1.text" = "+٩٦٦";

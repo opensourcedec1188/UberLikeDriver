@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "62k-4S-Kgy"; */
+"62k-4S-Kgy.text" = "رفم الهاتف";
+
+/* Class = "UILabel"; text = "Account Info"; ObjectID = "Ndi-wM-wSE"; */
+"Ndi-wM-wSE.text" = "معلومات الحساب";
+
+/* Class = "UILabel"; text = "Second Name"; ObjectID = "Nim-9Y-ovf"; */
+"Nim-9Y-ovf.text" = "الاسم الثاني";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "fqK-TH-eGo"; */
+"fqK-TH-eGo.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "hWn-do-Ke4"; */
+"hWn-do-Ke4.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "******"; ObjectID = "qIH-f7-CRc"; */
+"qIH-f7-CRc.text" = "******";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "rEC-v1-3ha"; */
+"rEC-v1-3ha.text" = "الايميل";
